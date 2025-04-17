@@ -1,2 +1,2 @@
 # Bank-system
-A system for clients and admins to perform bank transactions 
+​The Bank System is a C-based console application designed to simulate fundamental banking operations for both clients and administrators. It features a simple command-line interface that allows users to perform essential transactions such as deposits, withdrawals, and balance inquiries. Administrators have additional privileges, including the ability to manage user accounts and oversee transaction activities. The system is structured with modular code, separating functionalities into distinct files for better organization and maintainability. This project serves as an educational tool for understanding basic banking operations and practicing C programming concepts.
